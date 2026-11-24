@@ -1,0 +1,5 @@
+[allwayspawns:chess]
+customPiece1 = p:mWfceFifmnD
+pawnTypes = p
+
+# Hybrid variant of three-check chess and crazyhouse, using crazyhouse as a template

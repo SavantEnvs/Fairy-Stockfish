@@ -1,0 +1,5 @@
+ucci
+setoption name UCI_Variant value xiangqi
+banmoves h2e2
+position startpos
+go depth 2

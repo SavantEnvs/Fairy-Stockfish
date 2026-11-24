@@ -1,0 +1,5 @@
+uci
+isready
+ucinewgame
+position startpos moves e2e4 e7e5
+go depth 3

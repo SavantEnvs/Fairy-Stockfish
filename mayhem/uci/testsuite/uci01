@@ -1,0 +1,4 @@
+setoption name UCI_Variant value crazyhouse
+position startpos moves e2e4 d7d5 e4d5
+go depth 2
+d

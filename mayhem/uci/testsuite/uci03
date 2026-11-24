@@ -1,0 +1,4 @@
+usi
+setoption name UCI_Variant value shogi
+position startpos moves 7g7f
+go depth 2

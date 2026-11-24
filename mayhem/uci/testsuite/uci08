@@ -1,0 +1,4 @@
+position fen 8/8/8/8/8/8/8/K6k w - - 0 1
+go mate 2
+flip
+d

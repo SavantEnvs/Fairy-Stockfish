@@ -1,0 +1,9 @@
+load <<EOF
+[mychess:chess]
+king = k:W
+castling = false
+EOF
+setoption name UCI_Variant value mychess
+position startpos
+go perft 2
+go depth 2

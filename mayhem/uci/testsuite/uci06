@@ -1,0 +1,4 @@
+check <<EOF
+[foo:chess]
+maxRank = 12
+EOF

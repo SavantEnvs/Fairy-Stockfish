@@ -1,0 +1,5 @@
+new
+option UCI_Chess960=1
+force
+e2e4
+result 1-0 {x}

@@ -1,0 +1,4 @@
+setoption name UCI_Variant value xiangqi
+position startpos
+go depth 2
+eval

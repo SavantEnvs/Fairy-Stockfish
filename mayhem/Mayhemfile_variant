@@ -1,0 +1,9 @@
+project: savantenvs/Fairy-Stockfish
+target: variant
+testsuite:
+  - https://$MAYHEM_DOMAIN/$MAYHEM_PROJECT/$MAYHEM_TARGET/testsuite.tar
+  - file://mayhem/variant/testsuite
+cmds:
+  - cmd: /mayhem/fuzz_variant
+    libfuzzer: true
+    timeout: 10

@@ -1,0 +1,8 @@
+ping 1
+new
+variant shogi
+force
+7g7f
+3c3d
+go
+eval
